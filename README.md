@@ -1,6 +1,3 @@
 # Olá, mundo!
- Primeiro repositório versionado
- 
- Essa linha foi criada durante uma aula ao vivo!
- 
- Essa linha foi adicionada diretamente no site!
+
+Repositório criado durante o curso de **Git/GitHub** feito pelo _Gustavo Guanabara_ do _Curso Em Vídeo_
